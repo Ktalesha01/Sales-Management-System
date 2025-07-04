@@ -1,4 +1,4 @@
-# 🛍️ Sales Management System (SQL Portfolio Project)
+# 🛍️ Sales Management System (SQL Project)
 
 This project simulates a simple retail sales management system using SQL. It focuses on database design, data analysis, and report generation through practical SQL queries involving customers, products, and orders.
 
